@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-cream h-screen flex items-center justify-center;
+}
+
+#root {
+  @apply w-screen h-screen flex items-center justify-center;
+}
